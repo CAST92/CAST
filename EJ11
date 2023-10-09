@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Ejemplo  de Javascript
+        </title>
+        <meta charset="UFT-8"
+    </head>
+    <body>
+        <script>
+            for(let f=1;f<=10;f++){
+                document.write(f+="");
+            }
+        </script>
+    </body>
+</html>
